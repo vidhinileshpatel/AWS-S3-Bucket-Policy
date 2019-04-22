@@ -27,3 +27,16 @@ A Bucket Policy has the following structure:
 7) [Granting Cross-Account Permissions to Upload Objects While Ensuring the Bucket Owner Has Full Control](https://docs.aws.amazon.com/AmazonS3/latest/dev//example-bucket-policies.html#example-bucket-policies-use-case-8)
 8) [Granting Permissions for Amazon S3 Inventory and Amazon S3 Analytics](https://docs.aws.amazon.com/AmazonS3/latest/dev//example-bucket-policies.html#example-bucket-policies-use-case-9)
 9) [Example Bucket Policies for VPC Endpoints for Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/dev//example-bucket-policies-vpc-endpoint.html)
+
+
+# How to add a Bucket Policy
+
+After creating a bucket in S3 (testbucket1), use the following steps to add policies to it:
+
+1) Select the bucket to which you want to add the policies.
+
+2) Choose Persmissions -> Bucket Policy
+
+3) The Bucket Policy editor will open. It the editor you can change an existing policy or add a custom policy, in JSON. Use the Policy Generator link to create a policy.
+
+For more details use the official documentation provided by AWS : [AWS S3 Bucket Policy](https://docs.aws.amazon.com/AmazonS3/latest/user-guide/add-bucket-policy.html)
