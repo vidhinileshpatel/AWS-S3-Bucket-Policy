@@ -27,5 +27,3 @@ A Bucket Policy has the following structure:
 7) [Granting Cross-Account Permissions to Upload Objects While Ensuring the Bucket Owner Has Full Control](https://docs.aws.amazon.com/AmazonS3/latest/dev//example-bucket-policies.html#example-bucket-policies-use-case-8)
 8) [Granting Permissions for Amazon S3 Inventory and Amazon S3 Analytics](https://docs.aws.amazon.com/AmazonS3/latest/dev//example-bucket-policies.html#example-bucket-policies-use-case-9)
 9) [Example Bucket Policies for VPC Endpoints for Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/dev//example-bucket-policies-vpc-endpoint.html)
-
-# How to add a bucket Policy
