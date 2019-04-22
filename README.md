@@ -39,4 +39,9 @@ After creating a bucket in S3 (testbucket1), use the following steps to add poli
 
 3) The Bucket Policy editor will open. It the editor you can change an existing policy or add a custom policy, in JSON. Use the Policy Generator link to create a policy.
 
+
+# Source and Destination Bucket Policy
+
+To copy S3 objects across AWS accounts read this interesting blog by Parag Poddar: [Tensult Blogs(A Medium Corporation)](https://medium.com/tensult/copy-s3-bucket-objects-across-aws-accounts-e46c15c4b9e1)
+
 For more details use the official documentation provided by AWS : [AWS S3 Bucket Policy](https://docs.aws.amazon.com/AmazonS3/latest/user-guide/add-bucket-policy.html)
