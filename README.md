@@ -1,23 +1,4 @@
-# How to add a Bucket Policy for S3
-
-A bucket policy is a resource-based AWS Identity and Access Management (IAM) policy. A Bucket Policy is used to grant other AWS accounts or IAM users access permissions for the bucket and its objects. 
-
-# Contents of a Bucket Policy
-
-A Bucket Policy has the following structure: 
-
-{
-
-  "Version":"2012-10-17",
-
-  "Statement":[]
- 
- }
- 
- The statement comprises of the various actions, permissions, resource location and other necessary information.
- 
-# Topics
-# How to add a Bucket Policy for S3
+# Bucket Policy for S3
 
 A bucket policy is a resource-based AWS Identity and Access Management (IAM) policy. A Bucket Policy is used to grant other AWS accounts or IAM users access permissions for the bucket and its objects. 
 
@@ -46,3 +27,5 @@ A Bucket Policy has the following structure:
 7) [Granting Cross-Account Permissions to Upload Objects While Ensuring the Bucket Owner Has Full Control](https://docs.aws.amazon.com/AmazonS3/latest/dev//example-bucket-policies.html#example-bucket-policies-use-case-8)
 8) [Granting Permissions for Amazon S3 Inventory and Amazon S3 Analytics](https://docs.aws.amazon.com/AmazonS3/latest/dev//example-bucket-policies.html#example-bucket-policies-use-case-9)
 9) [Example Bucket Policies for VPC Endpoints for Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/dev//example-bucket-policies-vpc-endpoint.html)
+
+# How to add a bucket Policy
