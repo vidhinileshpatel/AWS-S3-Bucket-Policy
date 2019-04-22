@@ -44,4 +44,4 @@ After creating a bucket in S3 (testbucket1), use the following steps to add poli
 
 To copy S3 objects across AWS accounts read this interesting blog by Parag Poddar: [Tensult Blogs(A Medium Corporation)](https://medium.com/tensult/copy-s3-bucket-objects-across-aws-accounts-e46c15c4b9e1)
 
-For more details use the official documentation provided by AWS : [AWS S3 Bucket Policy](https://docs.aws.amazon.com/AmazonS3/latest/user-guide/add-bucket-policy.html)
+For more details on how to add bucket policies, use the official documentation provided by AWS : [AWS S3 Bucket Policy](https://docs.aws.amazon.com/AmazonS3/latest/user-guide/add-bucket-policy.html)
